@@ -1,0 +1,5 @@
+# Don't commit Service Account Key
+hugo-deployer.json
+
+# No need to commit generated files
+public/
