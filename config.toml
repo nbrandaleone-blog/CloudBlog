@@ -51,13 +51,18 @@ copyright = "Nick Brandaleone"
   intro = true
   project_name = "Above The Cloud"
   project_tagline = "My experiences with AWS and GCP"
-  github = "https://github.com/nbrandaleone"
-  linkedin = "https://www.linkedin.com/in/nbrandaleone/"
-  twitter = "https://twitter.com/nbrandaleone"
-  email = "nbrand@mac.com"
-  shareTwitter = true
-  shareLinkedIn = true
+  # github = "https://github.com/nbrandaleone"
+  # linkedin = "https://www.linkedin.com/in/nbrandaleone/"
+  # twitter = "https://twitter.com/nbrandaleone"
+  # email = "nbrand@mac.com"
   dateFormat = "Mon, Jan 2, 2006"
+
+[params.social.share]
+  facebook = false
+  linkedin = true
+  twitter = true
+  whatsapp = false
+  email = true
 
 [permalinks]
   post = "/:year/:month/:title/"

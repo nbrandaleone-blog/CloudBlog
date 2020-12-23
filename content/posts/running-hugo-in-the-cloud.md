@@ -1,6 +1,7 @@
 ---
 title: "Running Hugo in the Cloud"
 date: 2020-12-23T08:50:38-05:00
+socialshare: true
 ---
 
 ## Jekyll or Hugo

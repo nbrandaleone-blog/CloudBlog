@@ -2,6 +2,7 @@
 title: "Announcing my new blog"
 description: "Working on a new Cloud Platform"
 date: 2020-12-22T21:04:26-05:00
+socialshare: true
 ---
 
 # Hello GCP!

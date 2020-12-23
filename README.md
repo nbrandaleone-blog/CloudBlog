@@ -6,11 +6,16 @@ with various Cloud Providers, specifically AWS and GCP.
 
 I also include personal posts from time to time.
 
-# Create post
+---
+
+Added Social media links using the following guide:
+https://codingnconcepts.com/hugo/social-icons-hugo/
+
+### Create post
 hugo new posts/my-first-post.md
 
-## Build site (with drafts)
+### Build site (with drafts)
 hugo -D
 
-## Sync blog to Google Storage bucket
+### Sync blog to Google Storage bucket
 gsutil rsync -R ~/gcp/CloudBlog/public/ gs://nicks-playground.net/
