@@ -17,5 +17,12 @@ hugo new posts/my-first-post.md
 ### Build site (with drafts)
 hugo -D
 
-### Sync blog to Google Storage bucket
+### Sync with GitHub
+git add .
+git push origin main
+
+# Now using Firebase
+firebase deploy --only hosting
+
+### Sync blog to Google Storage bucket (old method)
 gsutil rsync -R ~/gcp/CloudBlog/public/ gs://nicks-playground.net/
