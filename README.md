@@ -11,6 +11,8 @@ Docs: https://firebase.google.com/docs/cli?authuser=0#macos
 GCP for DNS
 DNS hostname: https://nicks-playground.net/
 
+Example blog: https://pretired.dazwilkin.com/posts/200930/
+
 ---
 
 Added Social media links using the following guide:
